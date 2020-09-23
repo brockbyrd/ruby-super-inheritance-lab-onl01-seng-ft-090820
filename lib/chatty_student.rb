@@ -1,7 +1,7 @@
 class ChattyStudent < Student
 
   def hello
-    
+
   end
 
   def raise_hand
@@ -9,5 +9,5 @@ class ChattyStudent < Student
       super
     end
   end
-  
+
 end
