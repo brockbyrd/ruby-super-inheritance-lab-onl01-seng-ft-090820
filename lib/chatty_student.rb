@@ -1,4 +1,4 @@
-class ChattyStudent
+class ChattyStudent < Student
 
   def hello
     10.times do
